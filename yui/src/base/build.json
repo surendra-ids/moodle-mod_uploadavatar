@@ -1,0 +1,11 @@
+{
+  "name": "moodle-mod_uploadavatar-base",
+  "builds": {
+    "moodle-mod_uploadavatar-base": {
+      "jsfiles": [
+        "base.js",
+        "dragdrop.js"
+      ]
+    }
+  }
+}
